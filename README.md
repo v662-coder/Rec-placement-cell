@@ -42,4 +42,4 @@ Run `npm install` to install required dependencies
 Environment Variables:
 
 - PORT = 8080
-# Placement_Cell_ Under => MR.Vishnu Chaurasiya
+# Placement_Cell Under => Mr.Vishnu Chaurasiya
